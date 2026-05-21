@@ -94,7 +94,7 @@ console.log(withdraw(10000, 9500));
 //Task 6 — Product Search Engine
 
 let products = ["realme", "samsung", "iphone", "vivo", "oneplus", "nokia"];
-let search = "realme";
+let search = "iphone";
 
 let found = false;
 
